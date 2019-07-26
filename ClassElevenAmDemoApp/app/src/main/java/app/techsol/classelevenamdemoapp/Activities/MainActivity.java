@@ -1,8 +1,10 @@
-package app.techsol.classelevenamdemoapp;
+package app.techsol.classelevenamdemoapp.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import app.techsol.classelevenamdemoapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
